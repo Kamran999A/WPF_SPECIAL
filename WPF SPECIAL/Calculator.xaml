@@ -73,9 +73,9 @@
                         </Button>
                     </StackPanel>
                     <StackPanel VerticalAlignment="Bottom">
-                        <TextBlock FontSize="20"  x:Name="upperBlock" FontFamily="Oswald" Text="30 + 47 + 32 -" TextAlignment="Right"
+                        <TextBlock FontSize="20"  x:Name="upperBlock" FontFamily="Oswald" Text="" TextAlignment="Right"
                        Foreground="{StaticResource PrimaryHueLightForegroundBrush}" Margin="20 0"/>
-                        <TextBlock FontSize="50" FontFamily="Oswald" Text="13" TextAlignment="Right"  x:Name="lowerBlock"
+                        <TextBlock FontSize="50" FontFamily="Oswald" Text="" TextAlignment="Right"  x:Name="lowerBlock"
                        Foreground="#FF5885A4" Margin="20 0">
                             <TextBlock.Effect>
                                 <DropShadowEffect BlurRadius="10" ShadowDepth="1" Color="#FF5885A4"/>
